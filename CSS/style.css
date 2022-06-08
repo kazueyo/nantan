@@ -41,6 +41,7 @@ img{
 }
 
 .gnavi li{
+    display: flex;
     font-family: "Yu ]gothic Medium","游ゴシック Medium",YuGothic,"游ゴシック体","ヒラギノ角ゴ Pro W3",sans-serif;
     margin-left: 16px;
     list-style: none;
