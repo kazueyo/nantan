@@ -28,6 +28,8 @@ img{
     flex-wrap: wrap;/*スマホ表示折り返し用なのでPCのみなら不要*/
     margin:0 0 50px 0;
     list-style: none;
+    display: flex;
+    justify-content: space-between;
 }
 
 .gnavi li a{
@@ -35,6 +37,7 @@ img{
    padding:10px 30px;
     text-decoration: none;
     color: #333;
+    text-decoration: none;	
 }
 
 .gnavi li{
