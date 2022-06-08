@@ -19,7 +19,8 @@ img{
 /* HEADER
 ------------------------------- */
 .logo {
-  width: 7.5rem;
+  width: 210px;
+  margin-top: 14px;
 }
 
 .gnavi{
