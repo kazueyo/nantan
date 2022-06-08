@@ -21,6 +21,7 @@ img{
 .logo {
   width: 210px;
   margin-top: 14px;
+ justify-content: space-between;
 }
 
 .gnavi{
@@ -37,7 +38,6 @@ img{
    padding:10px 30px;
     text-decoration: none;
     color: #333;
-    text-decoration: none;	
 }
 
 .gnavi li{
