@@ -4,9 +4,9 @@
 共通　横並びのための設定
 ===================================*/
 .logo {
-    width: 250px;
-    margin-top: 0;
+  width: 7.5rem;
 }
+
 .gnavi{
     display: flex;
     flex-wrap: wrap;/*スマホ表示折り返し用なのでPCのみなら不要*/
@@ -193,10 +193,7 @@ color: #fff;
    text-align: center;
     appearance:  no-repeat;                /* 画像の繰り返しを指定  */              
     width:auto;                                   /* 横幅のサイズを指定    */
-    height: 235pX;                                 /* 縦幅のサイズを指定    */
-    
-    
-    
+    height: 200pX;                                 /* 縦幅のサイズを指定    */
 }
 
   
@@ -225,8 +222,8 @@ color: #fff;
 }
 
 .number {
-    width: 140px;
-    height: 140px;
+    width: 160px;
+    height: 160px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -234,53 +231,53 @@ color: #fff;
     
     position: absolute;
     top: 0;
-    left: 93%;
+    left: 89%;
 }
 
 
 .ac-illust1{
-  width: 250px;
-  height: 250px;
+  width: 180px;
+  height: 180px;
   display: flex;
   justify-content: center;
   align-items: center;
   cursor: pointer;
   
   position: absolute;
-  top: 85%;
+  top: 90%;
   right: 65%;
 }
 
 .ac-illust3{
-  width: 600px;
-  height: 600px;
+  width: 350px;
+  height: 350px;
   display: flex;
   justify-content: center;
   align-items: center;
   cursor: pointer;
   
   position: absolute;
-  top: 5%;
-  right: 25%;
+  top: 30%;
+  right: 45%;
 }
 
 
 .ac-illust4{
-  width: 190px;
-  height: 190px;
+  width: 110px;
+  height: 110px;
   display: flex;
   justify-content: center;
   align-items: center;
   cursor: pointer;
   
   position: absolute;
-  bottom: 80%;
-  right: 20%;
+  bottom: 90%;
+  left: 10%;
 }
 
 .ac-illust6{
-  width: 220px;
-  height: 220px;
+  width: 200px;
+  height: 200px;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -292,8 +289,8 @@ color: #fff;
 }
 
 .ac-illust7{
-  width: 180px;
-  height: 180px;
+  width: 200px;
+  height: 200px;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -375,8 +372,8 @@ color: #fff;
 }
 
 .number1 {
-    width: 140px;
-    height: 140px;
+    width: 160px;
+    height: 160px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -388,8 +385,8 @@ color: #fff;
 }
 
 .number2 {
-  width: 140px;
-  height: 140px;
+  width: 160px;
+  height: 160px;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -397,13 +394,13 @@ color: #fff;
   
   position: absolute;
   top: 0;
-  right: 93%;
+  right: 88%;
 }
 
 
 .ac-illust2{
-  width: 200px;
-  height: 200px;
+  width: 110px;
+  height: 110px;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -415,21 +412,21 @@ color: #fff;
 }
 
 .ac-illust5{
-  width: 250px;
-  height: 250px;
+  width: 180px;
+  height: 180px;
   display: flex;
   justify-content: center;
   align-items: center;
   cursor: pointer;
   
   position: absolute;
-  top: 85%;
+  top: 95%;
   right: 0;
 }
 
 .ac-illust8{
-  width: 220px;
-  height: 220px;
+  width: 110px;
+  height: 110px;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -437,7 +434,7 @@ color: #fff;
   
   position: absolute;
   top: 70%;
-  right: 80%;
+  right: 95%;
 }
 
   .flex1 .title {
