@@ -559,7 +559,7 @@ footer .btn {
       font-size: 2.5rem;
   }
   .page-header {
-      flex-direction: column;
+      flex-direction: row-reverse;
       align-items: center;
   }
 
