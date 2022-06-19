@@ -460,55 +460,55 @@ img{
   top: 70%;
   right: 95%;
 }
-
 /* Button */
 .btn {
-  font-family: 'Sawarabi Mincho', sans-serif;
-  display: inline-block;
-  padding: 1.25rem 3.25rem;
-  font-size: 1.375rem;
-  text-align: center;
-  width: 100%;
-}
-.btn-secondary {
-  color: rgb(255, 255, 255);
-  background: #449c7f;
-}
-.btn-secondary:hover {
-  background: #5c917f;
-}
+    font-family: 'Sawarabi Mincho', sans-serif;
+    display: inline-block;
+    padding: 1.25rem 3.25rem;
+    font-size: 1.375rem;
+    text-align: center;
+    width: 100%;
+  }
+  .btn-secondary {
+    color: rgb(255, 255, 255);
+    background: #449c7f;
+  }
+  .btn-secondary:hover {
+    background: #5c917f;
+  }
+  
+  /*
+  FOOTER
+  ================================================ */
+  footer {
+    background: #3fdce7;
+    color: rgba(73, 250, 206, 0.8);
+    padding: 3.5rem 1rem;
+    text-align: center;
+    font-family: "Yu ]gothic Medium","游ゴシック Medium",YuGothic,"游ゴシック体","ヒラギノ角ゴ Pro W3",sans-serif;
+  }
+  footer .btn {
+    font-family: "Yu ]gothic Medium","游ゴシック Medium",YuGothic,"游ゴシック体","ヒラギノ角ゴ Pro W3",sans-serif;
+    margin-bottom: 3.5rem;
+    width: auto;
+    text-decoration: none;
+  }
+  .footer-nav {
+    display: flex;
+    justify-content: center;
+  }
+  .footer-nav li {
+    margin: 0 .75rem;
+    list-style: none;
+  }
+  .footer-nav a:hover {
+    color: rgb(128, 119, 119);
+  }
+  .footer-nav a {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+  }
 
-/*
-FOOTER
-================================================ */
-footer {
-  background: #3fdce7;
-  color: rgba(73, 250, 206, 0.8);
-  padding: 3.5rem 1rem;
-  text-align: center;
-  font-family: "Yu ]gothic Medium","游ゴシック Medium",YuGothic,"游ゴシック体","ヒラギノ角ゴ Pro W3",sans-serif;
-}
-footer .btn {
-  font-family: "Yu ]gothic Medium","游ゴシック Medium",YuGothic,"游ゴシック体","ヒラギノ角ゴ Pro W3",sans-serif;
-  margin-bottom: 3.5rem;
-  width: auto;
-  text-decoration: none;
-}
-.footer-nav {
-  display: flex;
-  justify-content: center;
-}
-.footer-nav li {
-  margin: 0 .75rem;
-  color: rgb(255, 255, 255);
-  text-decoration: none;
-}
-.footer-nav a:hover {
-  color: rgb(128, 119, 119);
-}
-.footer-nav a {
-  text-decoration: none;
-}
 
 /* モバイル版
 ----------------------------------*/
