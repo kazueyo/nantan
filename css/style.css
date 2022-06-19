@@ -517,7 +517,12 @@ img{
         flex-direction: row-reverse;
         align-items: center;
     }
-  
+    .flex {
+        display: block
+      }
+      .flex1 {
+        display: block
+      }  
 
   /* Footer */
   .footer-nav {
